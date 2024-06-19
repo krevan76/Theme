@@ -304,11 +304,11 @@ body,
   height: 22px;
 }
 .wordmark_a934d8.wordmarkWindows_a934d8:before {
-  content: "Zerushia";
-  font-weight: 700;
+  content: "by";
 }
 .wordmark_a934d8.wordmarkWindows_a934d8:after {
-  content: "by";
+  content: "Zerushia";
+    font-weight: 700;
 }
 .wordmark_a934d8.wordmarkWindows_a934d8 svg {
   display: none;
